@@ -1,0 +1,17 @@
+#title {
+
+}
+
+.center {
+
+}
+
+#image{
+
+}
+
+@media only screen and (min-width: 991px){
+    .font {
+        padding: 0px 200px 15px 200px;
+    }
+}
