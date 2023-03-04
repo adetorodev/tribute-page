@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+=======
+#title {
+    font-size: 4rem;
+    width: 100%;
+    background: grey;
+}
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    background: grey;
+}
+#image {
+    max-width: 70%;
+    height: auto;
+    display: lock;
+}
+
+
+@media only screen and (min-width: 991px) {
+  .font {
+    padding: 0px 200px 15px 200px;
+  }
+}
+>>>>>>> 07cfcabb55d736ee0eb1fe5bbf406b8c4469a00c
